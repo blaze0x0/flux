@@ -6,4 +6,4 @@
 Guide:
 - Use format DD/MM/YYYY (Day/Month/Year)
 - Be specific and brief
-- Newest changelog comes at top
+- Newest update comes at top
