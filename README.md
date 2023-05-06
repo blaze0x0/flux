@@ -66,13 +66,14 @@ myresult = flux.evaluate("6*9") # A better way to evaluate mathematical expressi
 
 ### Interpreter
 I have no idea if i should call it an interpreter but yeah, we have one:
-[example image interpreter](./interpreter_example.jpeg)
+![example image interpreter](./interpreter_example.jpeg)
 
 ### Todo
 Note: The flux project is verryy incomplete and needs lot of upgrades.
 - [ ] Add variable evaluation (i.e. myvar + 5)
 - [ ] Allow multiple operator evaluation (i.e. 5+5+5)
 - [ ] Add string addition (i.e. mystring + mystring)
+- [ ] Add looping statements and conditions
 - [x] Add better documentation
 - [x] Allow square function (i.e. 5**5)
 
